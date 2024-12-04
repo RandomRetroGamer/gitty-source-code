@@ -1,2 +1,3 @@
-# gitty-source-code
-random stuff i have here from my discord
+# git-source-code
+
+**random codes i have for my projects**
